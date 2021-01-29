@@ -2,11 +2,11 @@
 
 ## В проекте использовались языки:
 
--HTML;
--CSS;
--JavaScript.
+- HTML;
+- CSS;
+- JavaScript.
 
 ### Библиотеки:
 
--Bootstrap;
--Swiper Slider.
+- Bootstrap;
+- Swiper Slider.

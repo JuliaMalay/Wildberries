@@ -1,4 +1,4 @@
-# Wildberries - Учебный проект Glo Academy
+# Wildberries
 
 ## В проекте использовались языки:
 
